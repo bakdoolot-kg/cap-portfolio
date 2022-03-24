@@ -24,7 +24,6 @@ const Basket = () => {
       >
         <Badge badgeContent={5} color="newItem">
           <NavLink to="/basket/" color="">
-            {/* HERE Basket */}
             <BasketIcon />
           </NavLink>
         </Badge>
